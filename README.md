@@ -6,6 +6,7 @@ This project implements a Fibonacci sequence generator in Python. It allows user
 
 Features:Efficient Fibonacci sequence generation, Optimized version using Python generators for memory efficiency
 
+
 Description: Task-2 Voice Assistant Using Python
 
 This project is a simple voice assistant built using Python. It can recognize voice commands, respond with text-to-speech, and perform various actions such as:
